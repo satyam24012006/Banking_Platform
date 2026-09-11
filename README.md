@@ -1,5 +1,7 @@
 🏦 Banking Platform
 
+![Banking Platform Banner](./images/banking-platform-banner.jpeg)
+
 A secure banking backend REST API built with Java and Spring Boot, providing JWT-based authentication, role-based authorization, account management, beneficiary management, and secure transactional fund transfers.
 
 ---
@@ -313,13 +315,6 @@ Potential future enhancements include:
 - Payment gateway integration/simulation
 - AES-based data-at-rest encryption
 - Improved automated test coverage
-
----
-
-👨‍💻 Contributors
-
-- Satyam Mishra
----
 
 ⭐ Project Highlights
 
